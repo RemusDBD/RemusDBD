@@ -1,7 +1,9 @@
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RemusDBD)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hello there 👋
 
-#### A security consultant by day ☀️ and a ethical hacker by night 🌙
-##### I don't have any degree ❌ and self-learn almost everything ✅
+#### Remus is a security consultant by day ☀️ and a ethical hacker by night 🌙
+##### He doesn't have any degree ❌ and self-learn almost everything ✅
 
-- 💬 `ping` me about **ctf**, **hacking**, **exploit**, **zeroday**, **ransom**
-- [Visit my site](https://remusdbd.github.io)
+- 💬 `ping` him about **ctf**, **hacking**, **exploit**, **zeroday**, **ransom**
+- [Visit his site](https://remusdbd.github.io)
