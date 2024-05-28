@@ -4,4 +4,4 @@
 ##### I don't have any degree ❌ and self-learn almost everything ✅
 
 - 💬 `ping` me about **ctf**, **hacking**, **exploit**, **zeroday**, **ransom**
-- [Visit my site](remusdbd.github.io)
+- [Visit my site](https://remusdbd.github.io)
