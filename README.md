@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemusDBD&layout=compact&langs_count=99)
-
 ### Hello there 👋
 
 #### Remus is a security consultant by day ☀️ and a ethical hacker by night 🌙
@@ -7,3 +5,5 @@
 
 - 💬 `ping` him about **ctf**, **hacking**, **exploit**, **zeroday**, **ransom**
 - [Visit his site](https://remusdbd.github.io)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemusDBD&layout=compact&langs_count=99)
