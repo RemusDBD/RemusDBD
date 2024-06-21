@@ -1,6 +1,6 @@
 # Hello there 👋
 
-## Remus is a security consultant by day ☀️ and a ethical hacker by night 🌙
+## Remus is a security researcher by day ☀️ an ethical hacker by night 🌙
 ### He doesn't have any degree ❌ and self-learn almost everything ✅
 
 - 💬 `ping` him about **ctf**, **hacking**, **exploit**, **zeroday**, **ransom**
