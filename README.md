@@ -13,4 +13,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemusDBD&layout=compact&langs_count=99)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemusDBD&langs_count=99&layout=compact)
