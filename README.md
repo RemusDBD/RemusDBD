@@ -5,7 +5,7 @@
 
 - 💬 `ping` him about **ctf**, **hacking**, **exploit**, **zeroday**, **ransom**
 - [Visit his site](https://remusdbd.github.io)
-
+- [Buy me a coffee] if anything here is meaningful/useful for you (https://buymeacoffee.com/remusdbd)
 
 
 
