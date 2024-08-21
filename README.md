@@ -1,6 +1,7 @@
 # Hello there 👋
 
 ## Remus is a security researcher by day ☀️ an ethical hacker by night 🌙
+<script src="https://tryhackme.com/badge/1755607"></script>
 ### He doesn't have any degree ❌ and self-learn almost everything ✅
 
 - 💬 `ping` him about **ctf**, **hacking**, **exploit**, **zeroday**, **ransom**
