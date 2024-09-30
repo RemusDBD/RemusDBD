@@ -3,7 +3,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/RemusLeung.png" alt="TryHackMe"><Br>
 
 - 💬 `ping` him about **ctf**, **hacking**, **exploit**, **zeroday**, **ransom**
-- [Visit his site](https://remusdbd.github.io)
+- [Visit his site](https://remusdbd.github.io) to learn about him
 - [Buy him a coffee☕](https://buymeacoffee.com/remusdbd) if anything here is meaningful/useful for you 
 
 
