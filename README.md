@@ -1,6 +1,6 @@
 # Hello there 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/RemusLeung.png" alt="Tryhackme" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/RemusLeung.png" alt="Your Image Badge" />
 
 - 💬 `ping` him about **ctf**, **hacking**, **exploit**, **zeroday**, **ransom**
 - [Visit his site](https://remusdbd.github.io) to learn about him
